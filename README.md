@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently working on Machine Learning and Real-time Physics Simulation
+- 👯 I graduated from University of California, Irvine(2020) with a degree in Intelligent System
+- 🤔 I’m going to earn my Master Degree in Software Engineering at Carnegie Mellon University, Silicon Valley
+- 💬 Ask me about Japanese Anime and Genshin Impact.
+- 📫 How to reach me: 849887519@qq.com
+
+![Amos's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmosChenZixuan&count_private=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AmosChenZixuan&layout=compact&count_private=true&theme=dark)
