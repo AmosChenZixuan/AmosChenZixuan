@@ -48,6 +48,15 @@ Here are some ideas to get you started:
 
 <h1></h1>
 
+**My Page**
+
+<a href='https://amoschenzixuan.github.io/'>
+  <code>
+    <img height="30" src='https://github.com/AmosChenZixuan/amoschenzixuan.github.io/blob/master/assets/img/avatar-icon.png'
+         alt='Github Page'>
+  </code>
+</a>
+
 **My Favorites**
 
 <a href='https://www.python.org/'>
