@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     <img src="https://badges.pufler.dev/gists/AmosChenZixuan?style=flat-square&color=black&logo=github">
   </a>-->
   <a href="https://github.com/AmosChenZixuan">
-    <img src="https://badges.pufler.dev/commits/monthly/AmosChenZixuan?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/updated/AmosChenZixuan/AmosChenZixuan?style=flat-square&color=black&logo=github">
   </a>
 </p>
 
