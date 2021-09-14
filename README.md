@@ -95,3 +95,13 @@ Here are some ideas to get you started:
 ```text
 print(Hello World!)
 ```
+### Reading List
+[Particle-Based Physics](http://obi.virtualmethodstudio.com/manual/6.2/index.html)\
+[Position Based Dynamics Paper](http://mmacklin.com/EG2015PBD.pdf)\
+[Unified Particle Physics](https://mmacklin.com/uppfrta_preprint.pdf) |  [Tutorial](http://mmacklin.com/flex_eurographics_tutorial.pdf)\
+[A Robust Method to Extract the Rotational Part of Deformations](https://animation.rwth-aachen.de/media/papers/2016-MIG-StableRotation.pdf)\
+[Deformable Simulation (Chapter.2)](https://tel.archives-ouvertes.fr/tel-01761851/file/TH2018GOLECKAROLINA.pdf)\
+[Mesh Generation-The CGAL Library](https://www.cgal.org/)
+
+
+
