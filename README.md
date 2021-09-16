@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 849887519@qq.com
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=AmosChenZixuan&count_private=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmosChenZixuan&count_private=True&theme=dark">
 </p>
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmosChenZixuan&layout=compact&count_private=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmosChenZixuan&layout=compact&count_private=True&theme=dark">
 </p>
 
 <p align='center'>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     <img src="https://badges.pufler.dev/years/AmosChenZixuan?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/AmosChenZixuan?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/AmosChenZixuan?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/AmosChenZixuan?style=flat-square&color=black&logo=github&count_private=True">
   </a>
   <!--<a href="https://gist.github.com/AmosChenZixuan">
     <img src="https://badges.pufler.dev/gists/AmosChenZixuan?style=flat-square&color=black&logo=github">
