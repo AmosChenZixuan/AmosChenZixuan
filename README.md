@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=AmosChenZixuan&count_private=True&theme=dark">
 </p>
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmosChenZixuan&layout=compact&count_private=True&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmosChenZixuan&layout=compact&count_private=True&theme=dark&hide=jupyter%20notebook&langs_count=10">
 </p>
 
 <p align='center'>
