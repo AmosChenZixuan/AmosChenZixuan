@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently working on Machine Learning and Real-time Physics Simulation
-- 👯 I graduated from University of California, Irvine(2020) with a degree in Intelligent System
+- 🔭 I’m currently working on Web Development and Requirement Engineering
+- 🌱 I previously worked on Machine Learning and Real-time Physics Simulation
+- 👯 I graduated from University of California, Irvine(2020) with a degree in Intelligent System (GPA 3.96).
 - 🤔 I’m going to earn my Master Degree in Software Engineering at Carnegie Mellon University, Silicon Valley
-- 💬 Ask me about Japanese Anime and Genshin Impact.
-- 📫 How to reach me: 849887519@qq.com
+- 📫 How to reach me: zixuanc2@andrew.cmu.edu
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=AmosChenZixuan&count_private=True&theme=dark">
