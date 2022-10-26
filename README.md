@@ -42,23 +42,6 @@ Here are some ideas to get you started:
   <img align="center" height="265em" src="https://activity-graph.herokuapp.com/graph?username=AmosChenZixuan&theme=rogue" alt="drawing"/>
 </p>
 
-<p align='center'>
-  <!--<a href="https://github.com/AmosChenZixuan">
-    <img src="https://badges.pufler.dev/visits/AmosChenZixuan/AmosChenZixuan?style=flat-square&color=black&logo=github">
-  </a>-->
-  <a href="https://github.com/AmosChenZixuan">
-    <img src="https://badges.pufler.dev/years/AmosChenZixuan?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/AmosChenZixuan?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/AmosChenZixuan?style=flat-square&color=black&logo=github&count_private=True">
-  </a>
-  <!--<a href="https://gist.github.com/AmosChenZixuan">
-    <img src="https://badges.pufler.dev/gists/AmosChenZixuan?style=flat-square&color=black&logo=github">
-  </a>-->
-  <a href="https://github.com/AmosChenZixuan">
-    <img src="https://badges.pufler.dev/updated/AmosChenZixuan/AmosChenZixuan?style=flat-square&color=black&logo=github">
-  </a>
-</p>
 
 <h1></h1>
 
