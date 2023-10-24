@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align='center'>
-  <img align="center" height="265em" src="https://github-readme-activity-graph.cyclic.app/graph?username=AmosChenZixuan&theme=rogue" alt="drawing"/>
+  <img align="center" height="265em" src="https://github-readme-activity-graph.vercel.app/graph?username=AmosChenZixuan&theme=rogue" alt="drawing"/>
 </p>
 
 <h1></h1>
