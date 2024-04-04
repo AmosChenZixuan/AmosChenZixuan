@@ -1,8 +1,4 @@
 ### Hi there, I am [Zixuan Chen](https://amoschenzixuan.github.io/)👋 
-<img src="https://media4.giphy.com/media/1H7wK6RCCExDMaSS1g/giphy.gif?cid=ecf05e473mieymcufy87m9tselxdtxjnjms26fwrgbbmw51m&rid=giphy.gif&ct=g" 
-  width="200px" align="left">
-
-
 <!--
 **AmosChenZixuan/AmosChenZixuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,18 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently a global graduate at Volvo Cars
+- 🔭 I’m currently a global graduate at Volvo Cars
+- 🌱 I'm currently learning LLMs and Spring Framework
+- 👯 I graduated from University of California, Irvine in 2020 with a CS degree in Intelligent System (GPA 3.96).
+- 🤔 I earned my Master Degree in Electrical & Computer Engineering at Carnegie Mellon University in 2023 (GPA 3.72)
+- 📫 How to reach me: zixuan.chen@volvocars.com
 
-🌱 I'm currently learning LLMs and Spring Framework
-
-👯 I graduated from University of California, Irvine in 2020 with a CS degree in Intelligent System (GPA 3.96).
-
-🤔 I earned my Master Degree in Electrical & Computer Engineering at Carnegie Mellon University in 2023 (GPA 3.72)
-
-📫 How to reach me: zixuan.chen@volvocars.com
 
 <br>
 <p align="center">
+  <img src="https://media4.giphy.com/media/1H7wK6RCCExDMaSS1g/giphy.gif?cid=ecf05e473mieymcufy87m9tselxdtxjnjms26fwrgbbmw51m&rid=giphy.gif&ct=g" 
+    width="290px" align="left">
   <a href="https://github.com/AmosChenZixuan">
     <img
       align="center"
