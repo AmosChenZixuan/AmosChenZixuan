@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br>    
 <img src="imgs/firefly.gif" 
-    width="275px" align="left">
+    width="275px" align="right">
 <p align="center">
   <a href="https://github.com/AmosChenZixuan">
     <img src="https://github-profile-trophy.vercel.app/?username=AmosChenZixuan&theme=onedark&no-frame=true&column=4&margin-w=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A"
