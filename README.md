@@ -25,17 +25,17 @@ Here are some ideas to get you started:
 <img src="imgs/firefly.gif" 
     width="275px" align="right">
     
-<p align="center">
+<p align="left">
   <a href="https://github.com/AmosChenZixuan">
-    <img src="https://github-profile-trophy.vercel.app/?username=AmosChenZixuan&theme=onedark&no-frame=true&column=4&margin-w=20&rank=SECRET,SSS,SS,S,AAA,AA,A"
+    <img src="https://github-profile-trophy.vercel.app/?username=AmosChenZixuan&theme=onedark&column=4&margin-w=5&rank=SECRET,SSS,SS,S,AAA,AA,A"
       align="center"
     />
   </a>
 </p>
-<p align='center'>
+<p align='left'>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AmosChenZixuan&count_private=True&theme=dracula">
 </p>
-<p align='center'>
+<p align='left'>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmosChenZixuan&layout=compact&count_private=True&theme=dracula&hide=jupyter%20notebook&langs_count=10">
 </p>
 
