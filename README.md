@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: zixuan.chen@volvocars.com
 
 
-<br>    
-<img src="imgs/firefly.gif" 
-    width="275px" align="right">
+<be>
+<a href="https://honkai-star-rail.fandom.com/wiki/Firefly">
+    <img src="imgs/firefly.gif" 
+        width="275px" align="right">
+</a>
     
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
