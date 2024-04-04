@@ -27,17 +27,21 @@ Here are some ideas to get you started:
     width="275px" align="right">
     
 <p align="left">
-  <a href="https://github.com/AmosChenZixuan">
-    <img src="https://github-profile-trophy.vercel.app/?username=AmosChenZixuan&theme=onedark&column=4&margin-w=5&rank=SECRET,SSS,SS,S,AAA,AA,A"
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AmosChenZixuan&theme=nord&column=4&margin-w=5&rank=SECRET,SSS,SS,S,AAA,AA,A"
       align="center"
     />
   </a>
 </p>
 <p align='left'>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AmosChenZixuan&count_private=True&theme=dracula">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AmosChenZixuan&count_private=True&theme=rose_pine">
+  </a>
 </p>
 <p align='left'>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmosChenZixuan&layout=compact&count_private=True&theme=dracula&hide=jupyter%20notebook&langs_count=10">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmosChenZixuan&layout=compact&count_private=True&theme=rose_pine&hide=jupyter%20notebook&langs_count=10">
+  </a>
 </p>
 
 <!--
