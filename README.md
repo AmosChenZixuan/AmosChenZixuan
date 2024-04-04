@@ -21,19 +21,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: zixuan.chen@volvocars.com
 
 
-<br>
+<br>    
 <p align="center">
-  <img src="https://media4.giphy.com/media/1H7wK6RCCExDMaSS1g/giphy.gif?cid=ecf05e473mieymcufy87m9tselxdtxjnjms26fwrgbbmw51m&rid=giphy.gif&ct=g" 
-    width="290px" align="left">
   <a href="https://github.com/AmosChenZixuan">
-    <img
+    <img src="https://github-profile-trophy.vercel.app/?username=AmosChenZixuan&theme=onedark&no-frame=true&column=4&margin-w=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A"
       align="center"
-      src="https://github-profile-trophy.vercel.app/?username=AmosChenZixuan&theme=onedark&no-frame=true&column=4&margin-w=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A"
     />
   </a>
-</a>
 </p>
 
+<img src="https://media4.giphy.com/media/1H7wK6RCCExDMaSS1g/giphy.gif?cid=ecf05e473mieymcufy87m9tselxdtxjnjms26fwrgbbmw51m&rid=giphy.gif&ct=g" 
+    width="15%" align="left">
 <p align='center'>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AmosChenZixuan&count_private=True&theme=dracula">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmosChenZixuan&layout=compact&count_private=True&theme=dracula&hide=jupyter%20notebook&langs_count=10">
@@ -45,37 +43,13 @@ Here are some ideas to get you started:
 </p> 
 -->
 
-<h1></h1>
+#
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amoschenzixuan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amoschenzixuan) 
 
-**My Page**
+#
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![APACHEKAFKA](https://img.shields.io/badge/apachekafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white&color=%23231F20) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-<a href='https://amoschenzixuan.github.io/'>
-    <img height="30" src='https://github.com/AmosChenZixuan/amoschenzixuan.github.io/blob/master/assets/img/avatar-icon.png'
-         alt='Github Page'>
-</a>
-
-**My Favorites**
-
-<a href='https://www.python.org/'>
-    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python">
-</a>
-<a href='https://pytorch.org/'>
-    <img height="30" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" title="PyTorch">
-</a>
-<a href='https://code.visualstudio.com/'>
-    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode">
-</a>
-<a href='https://ubuntu.com/'>
-    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu">
-</a>
-<a href=''>
-    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" alt="Windows" title="Windows">
-</a>
-<a href='https://github.com/taichi-dev/taichi'>
-    <img height="30" src="https://taichi.cool/logo.svg" alt="Taichi" title="Taichi">
-</a>
-
-<h1></h1>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
