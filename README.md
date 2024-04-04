@@ -1,5 +1,6 @@
-### Hi there, I am [Zixuan Chen](https://amoschenzixuan.github.io/)👋 
+### Hi there, I am [Zixuan Chen](https://github.com/AmosChenZixuan)👋 
 <!--
+[Zixuan Chen](https://amoschenzixuan.github.io/)
 **AmosChenZixuan/AmosChenZixuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
