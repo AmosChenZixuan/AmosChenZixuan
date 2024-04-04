@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 
 <br>    
+<img src="imgs/firefly.gif" 
+    width="275px" align="left">
 <p align="center">
   <a href="https://github.com/AmosChenZixuan">
     <img src="https://github-profile-trophy.vercel.app/?username=AmosChenZixuan&theme=onedark&no-frame=true&column=4&margin-w=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A"
@@ -30,10 +32,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<img src="https://media4.giphy.com/media/1H7wK6RCCExDMaSS1g/giphy.gif?cid=ecf05e473mieymcufy87m9tselxdtxjnjms26fwrgbbmw51m&rid=giphy.gif&ct=g" 
-    width="15%" align="left">
+
 <p align='center'>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AmosChenZixuan&count_private=True&theme=dracula">
+</p>
+<p align='center'>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmosChenZixuan&layout=compact&count_private=True&theme=dracula&hide=jupyter%20notebook&langs_count=10">
 </p>
 
