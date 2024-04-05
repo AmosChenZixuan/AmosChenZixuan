@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </p>
 <p align='left'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats-bay-delta-13.vercel.app/api?username=AmosChenZixuan&theme=rose_pine">
+    <img height="160em" src="https://github-readme-stats-bay-delta-13.vercel.app/api?username=AmosChenZixuan&theme=dark">
   </a>
 </p>
 <p align='left'>
