@@ -37,12 +37,12 @@ Here are some ideas to get you started:
 </p>
 <p align='left'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AmosChenZixuan&count_private=True&theme=rose_pine">
+    <img height="160em" src="https://github-readme-stats-bay-delta-13.vercel.app/api?username=AmosChenZixuan&count_private=True&theme=rose_pine">
   </a>
 </p>
 <p align='left'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmosChenZixuan&layout=compact&count_private=True&theme=rose_pine&hide=jupyter%20notebook&langs_count=10">
+    <img height="160em" src="https://github-readme-stats-bay-delta-13.vercel.app/api/top-langs?username=AmosChenZixuan&layout=compact&count_private=True&theme=rose_pine&hide=jupyter%20notebook&langs_count=10">
   </a>
 </p>
 
