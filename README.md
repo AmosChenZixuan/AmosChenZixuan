@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a global graduate at Volvo Cars
 - 🌱 I'm currently learning LLMs and Spring Framework
 - 👯 I graduated from University of California, Irvine in 2020 with a CS degree in Intelligent Systems
-- 🤔 I earned my Master's Degree in Electrical & Computer Engineering in 2023 at Carnegie Mellon University 
+- 🤔 I earned my Master's Degree in Electrical & Computer Engineering in 2023 at Carnegie Mellon University
+- ✨ Checkout my personal [Blog](https://amoschenzixuan.github.io/)
 - 📫 How to reach me: zixuan.chen@volvocars.com
 
 
