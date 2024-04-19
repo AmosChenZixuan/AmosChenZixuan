@@ -1,4 +1,4 @@
-### Hi there, I am [Zixuan Chen](https://github.com/AmosChenZixuan)👋 
+### Hi there, I am [Zixuan Chen](https://amoschenzixuan.github.io/)👋 
 <!--
 [Zixuan Chen](https://amoschenzixuan.github.io/)
 **AmosChenZixuan/AmosChenZixuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,8 +53,9 @@ Here are some ideas to get you started:
 -->
 
 # Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amoschenzixuan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amoschenzixuan) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/amoschenzixuan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amoschenzixuan) 
+[![blog](https://img.shields.io/badge/Website-B81B6C.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://amoschenzixuan.github.io/)
 
 <!-- [![VisitCount](https://visitcount.itsvg.in/api?id=amoschenzixuan&icon=5&color=0)](https://visitcount.itsvg.in) -->
 
