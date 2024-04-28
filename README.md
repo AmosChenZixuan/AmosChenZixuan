@@ -1,4 +1,4 @@
-### Hi there, I am [Zixuan Chen](https://amoschenzixuan.github.io/)👋 
+### Hi there, I am [Zixuan Chen](https://github.com/AmosChenZixuan)👋
 <!--
 [Zixuan Chen](https://amoschenzixuan.github.io/)
 **AmosChenZixuan/AmosChenZixuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<h2 style="margin-bottom: 10px;">
+    ✨ Checkout my personal
+    <a href="https://amoschenzixuan.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-B81B6C.svg?style=flat-square&logo=About.me&logoColor=white" alt="blog"></a>
+</h2> 
+
 - 🔭 I’m currently a global graduate at Volvo Cars
 - 🌱 I'm currently learning LLMs and Spring Framework
 - 👯 I graduated from University of California, Irvine in 2020 with a CS degree in Intelligent Systems
 - 🤔 I earned my Master's Degree in Electrical & Computer Engineering in 2023 at Carnegie Mellon University
-- ✨ Checkout my personal [Blog](https://amoschenzixuan.github.io/)
 - 📫 How to reach me: zixuan.chen@volvocars.com
 
 
@@ -56,7 +61,6 @@ Here are some ideas to get you started:
 # Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/amoschenzixuan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amoschenzixuan) 
-[![blog](https://img.shields.io/badge/Website-B81B6C.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://amoschenzixuan.github.io/)
 
 <!-- [![VisitCount](https://visitcount.itsvg.in/api?id=amoschenzixuan&icon=5&color=0)](https://visitcount.itsvg.in) -->
 
