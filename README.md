@@ -63,6 +63,8 @@ Here are some ideas to get you started:
 # Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/amoschenzixuan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amoschenzixuan) 
+[![Zhihu](https://img.shields.io/badge/zhihu-0080ff.svg?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/kushinaqing-yu)
+[![Civitai](https://img.shields.io/badge/Civitai-00599C?style=for-the-badge&logo=c&logoColor=white)](https://civitai.com/user/AzurOfficial)
 
 <!-- [![VisitCount](https://visitcount.itsvg.in/api?id=amoschenzixuan&icon=5&color=0)](https://visitcount.itsvg.in) -->
 
