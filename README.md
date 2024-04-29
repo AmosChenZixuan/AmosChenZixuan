@@ -16,16 +16,18 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 style="margin-bottom: 10px;">
-    ✨ Checkout my personal
-    <a href="https://amoschenzixuan.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-B81B6C.svg?style=flat-square&logo=About.me&logoColor=white" alt="blog"></a>
-</h2> 
+<h1 style="margin-bottom: 10px;">
+    ✨ Checkout My Personal
+    <a href="https://amoschenzixuan.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-B81B6C.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="blog"></a>
+</h1> 
 
-- 🔭 I’m currently a global graduate at Volvo Cars
-- 🌱 I'm currently learning LLMs and Spring Framework
-- 👯 I graduated from University of California, Irvine in 2020 with a CS degree in Intelligent Systems
-- 🤔 I earned my Master's Degree in Electrical & Computer Engineering in 2023 at Carnegie Mellon University
-- 📫 How to reach me: zixuan.chen@volvocars.com
+- 🔭 I’m currently a global graduate at Volvo Cars, following the track of Software Engineering
+- 🌱 I'm currently learning
+    - 🖥️ Front-end Technology with React
+    - 🎨 Digital Art Generation with Stable Diffusion
+    - 🤖 Retrieval-Augmented Generation with LLMs
+- 🎓 I graduated from University of California, Irvine in 2020 with a Computer Science degree, specialized in Intelligent Systems
+- 🧑‍🎓 I earned my Master's Degree in Electrical & Computer Engineering in 2023 from Carnegie Mellon University
 
 
 <be>
