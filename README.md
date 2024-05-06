@@ -1,4 +1,7 @@
-### Hi there, I am [Zixuan Chen](https://github.com/AmosChenZixuan)👋
+### Hi there, I am [Zixuan Chen (Amos)](https://github.com/AmosChenZixuan)👋
+![banner](/imgs/d0553da91e0aac99552b05caa996273d8a294c47a60785ef79fad1dbea49b06e.png)
+
+
 <!--
 [Zixuan Chen](https://amoschenzixuan.github.io/)
 **AmosChenZixuan/AmosChenZixuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,28 +34,23 @@ Here are some ideas to get you started:
 
 
 <be>
-<a href="https://honkai-star-rail.fandom.com/wiki/Firefly">
-    <img src="imgs/firefly.gif" 
-        width="275px" align="right">
-</a>
     
-<p align="left">
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats-bay-delta-13.vercel.app/api?username=AmosChenZixuan&theme=rose_pine&show=prs_merged_percentage&hide=contribs">
+  </a>
+
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200"src="https://github-readme-stats-bay-delta-13.vercel.app/api/top-langs?username=AmosChenZixuan&layout=compact&theme=rose_pine&hide=jupyter%20notebook&langs_count=10">
+  </a>
+
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AmosChenZixuan&theme=nord&column=4&margin-w=5&rank=SECRET,SSS,SS,S,AAA,AA,A"
-      align="center"
+    <img height="200" src="https://github-profile-trophy.vercel.app/?username=AmosChenZixuan&theme=nord&column=2&margin-w=5&rank=SECRET,SSS,SS,S,AAA,AA"
     />
   </a>
-</p>
-<p align='left'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats-bay-delta-13.vercel.app/api?username=AmosChenZixuan&theme=rose_pine">
-  </a>
-</p>
-<p align='left'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats-bay-delta-13.vercel.app/api/top-langs?username=AmosChenZixuan&layout=compact&theme=rose_pine&hide=jupyter%20notebook&langs_count=10">
-  </a>
-</p>
+</div>
+
 
 <!--
 <p align='center'>
