@@ -34,19 +34,16 @@ Here are some ideas to get you started:
 
 
 <be>
-    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="550" src="https://github-readme-stats-bay-delta-13.vercel.app/api?username=AmosChenZixuan&theme=rose_pine&show=prs_merged_percentage&hide=contribs">
+</a>
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="175" src="https://github-readme-stats-bay-delta-13.vercel.app/api?username=AmosChenZixuan&theme=rose_pine&show=prs_merged_percentage&hide=contribs">
-  </a>
-
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="175"src="https://github-readme-stats-bay-delta-13.vercel.app/api/top-langs?username=AmosChenZixuan&layout=compact&theme=rose_pine&hide=jupyter%20notebook&langs_count=10">
+    <img height="225"src="https://github-readme-stats-bay-delta-13.vercel.app/api/top-langs?username=AmosChenZixuan&layout=compact&theme=rose_pine&hide=jupyter%20notebook&langs_count=10">
   </a>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img height="175" src="https://github-profile-trophy.vercel.app/?username=AmosChenZixuan&theme=nord&column=2&margin-w=5&rank=SECRET,SSS,SS,S,AAA,AA"
+    <img height="225" src="https://github-profile-trophy.vercel.app/?username=AmosChenZixuan&theme=nord&column=2&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA"
     />
   </a>
 </div>
