@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img height="225" src="https://github-profile-trophy.vercel.app/?username=AmosChenZixuan&theme=nord&column=2&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA"
+    <img height="225" src="https://trophy.ryglcloud.net/?username=AmosChenZixuan&theme=nord&column=2&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA"
     />
   </a>
 </div>
