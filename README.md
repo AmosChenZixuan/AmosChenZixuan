@@ -1,5 +1,5 @@
 ### Hi there, I am [Zixuan Chen (Amos)](https://github.com/AmosChenZixuan)👋
-![banner](/imgs/d0553da91e0aac99552b05caa996273d8a294c47a60785ef79fad1dbea49b06e.png)
+![banner](/imgs/banner.png)
 
 
 <!--
