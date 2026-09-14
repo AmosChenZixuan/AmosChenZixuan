@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h1 style="margin-bottom: 10px;">
     ✨ Checkout My Personal
-    <a href="https://www.azurtelier.com/" target="_blank"><img src="https://img.shields.io/badge/Website-B81B6C.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="blog"></a>
+    <a href="https://amoschenzixuan.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-B81B6C.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="blog"></a>
 </h1> 
 
 - 🔭 I’m currently a global graduate at Volvo Cars, following the track of Software Engineering
